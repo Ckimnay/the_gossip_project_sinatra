@@ -1,4 +1,4 @@
-
+require 'gossip'
 
 class ApplicationController < Sinatra::Base
 
